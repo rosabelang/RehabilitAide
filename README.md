@@ -2,6 +2,5 @@ RehabilitAide
 =============
 
 by Team WhaleWang
-=============
 
-For Web and Windows 8.
+An application for Web and Windows 8.
