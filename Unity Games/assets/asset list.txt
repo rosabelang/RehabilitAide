@@ -1,19 +1,32 @@
-SIGN UP/ LOGIN
+BUTTONS
 x Sign/Log In
 x Sign/Log Out
+x Start
+x Play
+x Pause
+x Back
+x Quit
+
+ICONS
+_ App Logo
+_ Timer
+
+BADGES
+_ Hardinero
+_ Rabbit Raider
+_ Lagomorphologist
+_ Dishwasher
+_ The Ordertaker
+_ Master Chef
+_ Private Hanger
+_ Captain Clothesline
+_ Major Washing Machine
 
 HOME
 _ Coord About
 _ Mem About
 _ Spat About
 _ Room Layout
-
-OTHER BUTTONS
-x Start
-x Play
-x Pause
-x Back
-x Quit
 
 COORDINATION
 _ Tutorial
@@ -29,12 +42,12 @@ SPATIAL
 _ Tutorial
 _ BG - Cabinet
 _ Clothes
-  _ Blue + Hor Stripes
-  _ Red + Hearts
-  _ Yellow + Polka Dots
-  _ Green + DiVert Stripes
-  _ Purple + Checkered
-  _ White + Stars
+  x Stripes 1
+  x Stripes 2
+  x Hearts
+  _ Polka Dots
+  x Checkered
+  _ Stars
 
 MEMORY
 _ Tutorial
