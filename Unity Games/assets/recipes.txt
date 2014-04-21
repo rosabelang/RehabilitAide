@@ -1,0 +1,30 @@
+RECIPES
+
+PORK ADOBO
+pork
+vinegar 
+soy sauce
+garlic
+peppercorns
+bay leaves
+
+LEMON CHICKEN
+olive oil
+garlic
+lemons
+herbs
+salt
+pepper
+chicken
+
+RATATOUILLE
+olive oil
+onion
+garlic
+eggplant
+herbs
+bell pepper
+tomatoes
+salt
+pepper
+
