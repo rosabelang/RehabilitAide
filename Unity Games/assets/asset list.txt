@@ -8,7 +8,7 @@ x Back
 x Quit
 
 ICONS
-_ App Logo
+x App Logo
 _ Timer
 
 BADGES
