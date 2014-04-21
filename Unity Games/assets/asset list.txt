@@ -23,13 +23,13 @@ _ Captain Clothesline
 _ Major Washing Machine
 
 HOME
-_ Coord About
-_ Mem About
-_ Spat About
-_ Room Layout
+x Coord About
+x Mem About
+x Spat About
+x Room Layout
 
 COORDINATION
-_ Tutorial
+x Tutorial
 _ BG - Garden
 _ Rabbit
 _ Basket
@@ -39,7 +39,7 @@ x Space
 x Numbers 
 
 SPATIAL
-_ Tutorial
+x Tutorial
 _ BG - Cabinet
 _ Clothes
   x Stripes 1
@@ -50,7 +50,7 @@ _ Clothes
   _ Stars
 
 MEMORY
-_ Tutorial
+x Tutorial
 _ BG - Kitchen
 _ Recipe Box
 _ Recipe Cards
