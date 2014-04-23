@@ -41,13 +41,13 @@ x Numbers
 SPATIAL
 x Tutorial
 _ BG - Cabinet
-_ Clothes
+x Clothes
   x Stripes 1
   x Stripes 2
   x Hearts
-  _ Polka Dots
+  x Polka Dots
   x Checkered
-  _ Stars
+  x Stars
 
 MEMORY
 x Tutorial
