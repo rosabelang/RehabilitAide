@@ -40,7 +40,7 @@ x Numbers
 
 SPATIAL
 x Tutorial
-_ BG - Cabinet
+x BG - Cabinet
 x Clothes
   x Stripes 1
   x Stripes 2
